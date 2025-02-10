@@ -10,7 +10,7 @@ html{
 }
 
 body {
-    background-color: rgba(253, 244, 244, 30%);
+    background-color: rgba(173, 216, 230, 30%);
     font-family: 'Montserrat', Arial, sans-serif;
     margin: 0px;
 }
@@ -27,7 +27,7 @@ body {
     font-weight: bold;
     text-transform: uppercase;
     margin: 0px;  
-    background-image: linear-gradient(135deg, rgb(250, 113, 283)0%, rgb(255, 142, 134)60%);
+    background-image: linear-gradient(135deg, rgb(173, 216, 230)0%, rgb(190, 216, 230)60%);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -87,7 +87,7 @@ body {
 }
 
 .colorful-letter{
-    background-image: linear-gradient(135deg, rgb(250, 113, 283)0%, rgb(255, 142, 134)60%);
+    background-image: linear-gradient(135deg, rgb(173, 216, 230)0%, rgb(190, 216, 230)60%);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -206,7 +206,7 @@ body {
 
 /* Miscellaneous */
 .button{
-    background-color: rgba(253, 129, 187, 0.3);
+    background-color: rgba(173, 216, 230, 0.3);
     padding: 10px;
     text-decoration: none;
     border-radius: 5%;
@@ -215,7 +215,7 @@ body {
 
 /* I only used button-outline on this project, but you may like the other one more */
 .button-outline{
-    border: 2px solid  rgba(253, 129, 187, 0.3);
+    border: 2px solid  rgba(173, 216, 230, 0.3);
     padding: 10px;
     text-decoration: none;
     border-radius: 5%;
@@ -246,8 +246,8 @@ body {
 
 /* ANIMATIONS AND OTHER BEAUTIES */
 .button-outline:hover, .button-outline:active{
-    border: 2px solid  rgba(253, 129, 187, 0.3);
-    background-color: rgba(253, 129, 187, 0.6);
+    border: 2px solid  rgba(173, 216, 230, 0.3);
+    background-color: rgba(173, 216, 230, 0.6);
     padding: 10px;
     text-decoration: none;
     border-radius: 5%;
@@ -277,7 +277,7 @@ nav {
 }
 
 .main-nav{
-    background-color: rgb(253, 249, 249);
+    background-color: rgb(173, 216, 230);
     display: flex;
     list-style-type: none;
     justify-content: center;
@@ -295,7 +295,7 @@ nav {
 }
 
 .main-nav li a:hover {
-    color: rgb(254, 175, 210);
+    color: rgb(173, 216, 230);
     text-decoration: none;
     font-weight: bold;
 }
@@ -385,9 +385,9 @@ footer{
 .progress-bar span {
     height: 10px;
     float: left;
-    background: linear-gradient(135deg, rgb(250, 113, 283)0%, rgb(255, 142, 134)60%);
+    background: linear-gradient(135deg, rgb(173, 216, 230)0%, rgb(190, 216, 230)60%);
     border-radius: 20px;
-    -webkit-background: linear-gradient(135deg, rgb(250, 113, 283) 0%, rgb(255, 142, 134) 60%);
+    -webkit-background: linear-gradient(135deg, rgb(173, 216, 230) 0%, rgb(190, 216, 230) 60%);
     -webkit-border-radius: 20px;
 }
 
