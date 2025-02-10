@@ -95,14 +95,14 @@ body {
 
 /* Background colors */
 .baby-pink{
-    background-color: rgba(253, 129, 187, 0.3);
+    background-color: rgba(173, 216, 230, 0.3);
     margin: 20px auto;
     padding: 20px;
     text-align: center;
 }
 
 .baby-pink-light{
-    background-color: rgba(243, 162, 200, 0.3);
+    background-color: rgba(173, 216, 230, 0.3);
     margin: 20px auto;
     padding: 20px;
     text-align: center;
@@ -681,12 +681,12 @@ footer{
     }
 
     .baby-pink {
-        background-color: rgb(243, 162, 200);
+        background-color: rgb(173, 216, 230);
     }
 
     .baby-pink-light {
         background-color: rgba(45, 45, 45, 1);
-        border: 2px solid rgb(243, 162, 200);
+        border: 2px solid rgb(173, 216, 230);
     }
 
     .main-nav {
